@@ -64,6 +64,7 @@ footer{
     padding: 40px 0;
     color: #9a9a92;
     font-size: 0.9rem;
+    margin:0 auto;
 }
 p, li {
     font-size: 1.05rem;
